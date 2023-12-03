@@ -1,4 +1,4 @@
-![Banner Image for GitHub Profile](.png)
+
 
 # Sarimol Adampurath (sari-rahul)
 
