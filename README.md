@@ -1,3 +1,5 @@
+![Banner Image for GitHub Profile](.png)
+
 # Sarimol Adampurath (sari-rahul)
 
 ## Full Stack Software Developer
