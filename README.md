@@ -1,8 +1,8 @@
-
+![Header](./your-header-image-name.png)
 
 # Sarimol Adampurath (sari-rahul)
 
-## Full Stack Software Developer
+## Full Stack Software Developer(Front-End)
 
 ### About Me
 Hi there 👋🏻, I am Sari, I recently completed a Diploma in Fullstack Software Development from Code Institute,Dublin and I am currently working at 2Toucans,UK as Web Developer.
