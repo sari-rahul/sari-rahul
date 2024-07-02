@@ -1,9 +1,5 @@
 ![Header](https://github.com/sari-rahul/sari-rahul/blob/main/github-header-image%20(6).png)
 
-# Sarimol Adampurath (sari-rahul)
-
-## Full Stack Software Developer(Front-End)
-
 ### About Me
 Hi there 👋🏻, I am Sari, I recently completed a Diploma in Fullstack Software Development from Code Institute,Dublin and I am currently working at 2Toucans,UK as Web Developer.
 
