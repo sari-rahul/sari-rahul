@@ -1,4 +1,4 @@
-![Header](https://github.com/sari-rahul/sari-rahul/blob/main/github-header-image%20(6).png)
+![Header](https://github.com/sari-rahul/sari-rahul/blob/main/freepik-export-20240702143108vvOy.jpeg)
 
 ### About Me
 Hi there 👋🏻, I am Sari, I recently completed a Diploma in Fullstack Software Development from Code Institute,Dublin and I am currently working at 2Toucans,UK as Web Developer.
