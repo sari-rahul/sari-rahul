@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/sari-rahul/sari-rahul/blob/main/github-header-image%20(6).png)
 
 # Sarimol Adampurath (sari-rahul)
 
